@@ -1,0 +1,1 @@
+#Variables: A variable is a name given to a memory location in a program .
