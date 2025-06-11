@@ -1,0 +1,8 @@
+*Identifiers:
+           1. Identifiers   can be combination of uppercase and lowercase letters,digits,or an underscore(_), example: myVarriable,varriable_1,varriable_for_print etc.
+
+* An Identifiers can not start with digit.so while , varriable_1 is valid and 1_varriable is not valid .
+
+* Can't use special symbols like !,#,@,% etc. in an Identifiers .
+
+* Identifiers can be of any length .
