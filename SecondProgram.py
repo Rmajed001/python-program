@@ -23,3 +23,11 @@ print(type(price)) #type is float
      Floats: Numbers with decimal points.
         Strings: Text data enclosed in quotes (single or double) ('')/("").
     Boolean: Represents True or False values.
+    None: Represents a null value or no value at all.
+    
+    
+age = 23
+old=False
+a=None
+print(type(old))
+print(type(a))

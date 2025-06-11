@@ -1,3 +1,4 @@
+*Python is a case sensitive language
 *Identifiers:
            1. Identifiers   can be combination of uppercase and lowercase letters,digits,or an underscore(_), example: myVarriable,varriable_1,varriable_for_print etc.
 
@@ -6,3 +7,20 @@
 * Can't use special symbols like !,#,@,% etc. in an Identifiers .
 
 * Identifiers can be of any length .
+
+
+*Keywords in Python:
+              -keywords are reserved word in Python
+              -and,else,in,return,as,except,is ,True,assert,finally,lambda,try, break,False,nonlocal,with,class,for ,None,while,continue,from ,not,yeild,def,global,or,del,if,pass,elif,import,raise .
+Single line comments in Python:
+       #This is a Single line comment
+       """
+       Multi line comment start and end with Triple of quotes(""")
+
+
+
+ #Types of Operators:      
+          1. Arithmetic Operators(+,-,*,%,/,**)
+          2.Relational Operators(==,!=,>,<,>=,<=)
+          3.Assignment Operators(=,+=,-=,*=,/=,%=,**=)
+          4.Logical Operators(not,and, or)

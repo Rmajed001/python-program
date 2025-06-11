@@ -11,3 +11,14 @@ print("My Name is : Md. Ruhul Amin", "I'm 23 years old, I live in Dhaka, Banglad
 
 print(25)
 print(25 + 5)
+
+#sum  in Python
+a=2
+b=5
+sum=a+b
+print("The sum is:",sum)
+
+""" this is a multi-line comment
+This is a multi-line comment in Python.
+It can span multiple lines.
+""" 
