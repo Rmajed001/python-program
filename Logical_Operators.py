@@ -15,14 +15,22 @@
 # a = True
 # b = False
 # print(a and b)  # Output: False (both must be True for the result to be True)
-
+#In Or operator, if at least one of the operands is True, the result is True.
+# In And operator, both operands must be True for the result to be True.# In Not operator, it negates the value of the operand.
 a=50
 b=30
 print(not False)
 print(not (a > b),"\n")
 
-val1 = F
+val1 = False
 val2 = False
 print("and operator :",val1 and val2)
 
 print("or operator :",val1 or val2)
+
+print("OR operator :", (a==b) or (a > b))
+print("AND operator :", (a==b) and (a > b))
+
+
+
+
